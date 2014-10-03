@@ -12,7 +12,6 @@
  * 
  */
 int main(int argc, char** argv) {
-
-    return (EXIT_SUCCESS);
+    printf("Hello world!");
+    return EXIT_SUCCESS;
 }
-
